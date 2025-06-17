@@ -28,7 +28,7 @@ public class DebugApplication {
         cosmic.setConfigUrl("127.0.0.1:2181?user=zookeeper&password=20050805");
 //        cosmic.setConfigUrl("127.0.0.1:2181");
         cosmic.setCosmicWebPort(8080);
-
+// 我修改了一些内容
 //        cosmic.setMcServerUrl("http://127.0.0.1:8090");
         cosmic.setMcServerUrl("http://127.0.0.1:8090/");
 
