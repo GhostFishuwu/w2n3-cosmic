@@ -1,0 +1,8 @@
+# 项目排除路径
+/.gradle/
+/code/base/w2n3-prj01-base-common/build/
+/code/base/w2n3-prj01-base-helper/build/
+/code/cloud01/w2n3-prj01-cloud01-app01/build/
+/code/cloud01/w2n3-prj01-cloud01-app01/build/classes/java/main/
+/code/w2n3-cosmic-debug/build/
+/code/w2n3-cosmic-debug/build/classes/java/main/
